@@ -1,0 +1,17 @@
+{
+  "name": "patreon-token",
+  "version": "1.0.0",
+  "description": "Patreon Token",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Team9",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
