@@ -15,7 +15,7 @@
         "http-proxy": ">=1.18.1",
         "kind-of": ">=6.0.3",
         "lite-server": "^2.6.1",
-        "lodash": ">=4.17.19",
+        "lodash": ">=4.17.21",
         "minimist": ">=1.2.5",
         "object-path": ">=0.11.5",
         "yargs-parser": ">=13.1.2"
