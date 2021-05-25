@@ -1,2 +1,3 @@
 *.sol linguist-language=Solidity
-src/* linguist-vendored
+* linguist-vendored
+*.sol linguist-vendored=false
