@@ -17,7 +17,7 @@
         "lite-server": "^2.6.1",
         "lodash": ">=4.17.21",
         "minimist": ">=1.2.5",
-        "object-path": ">=0.11.5",
+        "object-path": ">=0.11.8",
         "yargs-parser": ">=13.1.2"
     }
 }
